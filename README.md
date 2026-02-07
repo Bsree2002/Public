@@ -14,4 +14,4 @@ tour packages.
 - Contact details
 
 ## Live Demo
-https://bsree2002.github.io/Public/
+https://github.com/Bsree2002/Public/tree/main
